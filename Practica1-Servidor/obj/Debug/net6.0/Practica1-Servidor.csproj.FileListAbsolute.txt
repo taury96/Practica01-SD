@@ -1,0 +1,15 @@
+C:\Users\Daniel Toro\source\repos\Practica1-Servidor\bin\Debug\net6.0\Practica1-Servidor.exe
+C:\Users\Daniel Toro\source\repos\Practica1-Servidor\bin\Debug\net6.0\Practica1-Servidor.deps.json
+C:\Users\Daniel Toro\source\repos\Practica1-Servidor\bin\Debug\net6.0\Practica1-Servidor.runtimeconfig.json
+C:\Users\Daniel Toro\source\repos\Practica1-Servidor\bin\Debug\net6.0\Practica1-Servidor.dll
+C:\Users\Daniel Toro\source\repos\Practica1-Servidor\bin\Debug\net6.0\Practica1-Servidor.pdb
+C:\Users\Daniel Toro\source\repos\Practica1-Servidor\obj\Debug\net6.0\Practica1-Servidor.csproj.AssemblyReference.cache
+C:\Users\Daniel Toro\source\repos\Practica1-Servidor\obj\Debug\net6.0\Practica1-Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Toro\source\repos\Practica1-Servidor\obj\Debug\net6.0\Practica1-Servidor.AssemblyInfoInputs.cache
+C:\Users\Daniel Toro\source\repos\Practica1-Servidor\obj\Debug\net6.0\Practica1-Servidor.AssemblyInfo.cs
+C:\Users\Daniel Toro\source\repos\Practica1-Servidor\obj\Debug\net6.0\Practica1-Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Toro\source\repos\Practica1-Servidor\obj\Debug\net6.0\Practica1-Servidor.dll
+C:\Users\Daniel Toro\source\repos\Practica1-Servidor\obj\Debug\net6.0\refint\Practica1-Servidor.dll
+C:\Users\Daniel Toro\source\repos\Practica1-Servidor\obj\Debug\net6.0\Practica1-Servidor.pdb
+C:\Users\Daniel Toro\source\repos\Practica1-Servidor\obj\Debug\net6.0\Practica1-Servidor.genruntimeconfig.cache
+C:\Users\Daniel Toro\source\repos\Practica1-Servidor\obj\Debug\net6.0\ref\Practica1-Servidor.dll
